@@ -1,0 +1,12 @@
+Allef Soares
+all346
+
+Collaborated with: NA
+
+MD5SUM PART1: 2461618dce6acc1a979de5c76f0da2a9  part1-output
+
+MD5SUM PART2: 3547239056c0408d8e19797b046c1335  part2-output
+Page Faults: 758
+
+MD5SUM PART3: 3e74a04bccaeaef6c7234ef003aa44fd  part3-output
+Page Faults: 755
